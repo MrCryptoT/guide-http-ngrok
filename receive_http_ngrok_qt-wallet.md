@@ -88,6 +88,9 @@ To follow this tutorial, you will need to download the following file :
 ## Receive via HTTP with ngrok on GUI MWC Wallet
 
   > _Your Ngrok link expires after being online 8 hours in a row. You will need to close and launch back the Ngrok sotware to have a new session and as well a new usable link. By the way, make sure to type ```ngrok http 3415``` in the Ngrok terminal to enable the HTTP(S) port 3415 tunnel. Moreover, you need to let the Ngrok Terminal open to be online when you receive your MWC withdrawal. To close Ngrok, you just need to close the Terminal manually or type ```CTRL + C``` . Make sure that QT Wallet recipient wallet is listening and the Ngrok HTTP(S) tunnel port is online and running !_   
+
+  <br />
+  <br /> 
   
   - By default, the HTTP listener is disable, as you can see below.
   
