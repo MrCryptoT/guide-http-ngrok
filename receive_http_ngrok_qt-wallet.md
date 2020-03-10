@@ -134,7 +134,7 @@ To follow this tutorial, you will need to download the following file :
   <br /> 
   <br /> 
 
-  - As we can see below, the HTTP listener is now _**Online**_ as we can see below.
+  - As we can see below, the HTTP listener is now _**Online**_.
   
    ![withdrawal](/static/img/gui6.png "withdrawal")
    
